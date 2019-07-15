@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "*"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "docker-nodejs-project",
+  "description": "node-docker-proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathv/docker-nodeJS-project.git"
+  },
+  "author": "Prathveer Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prathv/docker-nodeJS-project/issues"
+  },
+  "homepage": "https://github.com/prathv/docker-nodeJS-project#readme"
+}
